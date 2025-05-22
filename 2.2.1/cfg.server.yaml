@@ -1,4 +1,4 @@
-package: ocpi_v221
+package: server
 output: server/server.gen.go
 generate:
   models: true

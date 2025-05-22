@@ -1,6 +1,7 @@
 module github.com/ChargePi/ocpi/2.2.1
 
-go 1.21.13
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
